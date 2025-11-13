@@ -3,7 +3,7 @@ import { Github } from "lucide-react";
 export const GitHubLink = () => {
   return (
     <a
-      href="https://github.com/yourusername/sents"
+      href="https://github.com/0xharryjohnson/sents"
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 left-6 z-40 p-3 rounded-full glass hover:glass-light smooth-transition border border-border/50 hover:border-primary/50 group"
