@@ -1,7 +1,7 @@
 # Sents - Token Sentiment Analysis
 
-AI-powered X sentiment analysis for tokens across Base, Solana, and BNB.
-Leverages Memory Protocol's API to save ~99.62% on X API costs!
+- AI-powered X sentiment analysis for tokens across Base, Solana, and BNB.
+- Leverages Memory Protocol's API to save ~99.62% on X API costs!
 
 ## Quick Start
 
