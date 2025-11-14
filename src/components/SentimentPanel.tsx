@@ -119,7 +119,7 @@ export const SentimentPanel = ({ isLoading, sentiment }: SentimentPanelProps) =>
                     <div className="w-2 h-2 rounded-full bg-primary animate-pulse" />
                     <p className="text-sm font-medium text-primary">@{username}</p>
                   </div>
-                  <p className="text-foreground leading-relaxed group-hover:text-foreground/90">
+                  <p className="text-foreground leading-relaxed group-hover:text-foreground/90 break-words">
                     {truncatedText}
                   </p>
                   <div className="flex items-center justify-end gap-1 text-xs text-muted-foreground">
